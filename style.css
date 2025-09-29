@@ -21,9 +21,13 @@ img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 5px solid rgb(176, 243, 77);
+  border: 5px solid rgb(93, 243, 93);
 }
 
 .center {
   text-align: center;
+}
+
+nav a:hover{
+  color: rgb(93, 243, 93);
 }
